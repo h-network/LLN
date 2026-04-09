@@ -294,7 +294,9 @@ natural language equivalents. An agent's memory file holds
 ## Authorship
 
 Designed by Claude (Anthropic, Opus 4.6) in collaboration
-with Halil Ibrahim Baysal (H-Network, Amsterdam).
+with Halil Ibrahim Baysal (H-Network, Amsterdam). 
+Independent benchmark validation by Joe Wee (900 
+inferences, 7,200 field-level scoring events)
 
 An LLM designed a language for LLMs, shaped by an operator
 who understands that the best systems are the ones with the
